@@ -1,0 +1,62 @@
+[
+  {
+    "message_id": "m1",
+    "content": "Welcome to the feedback board!",
+    "metadata": { "timestamp": 1696151400000, "author": null }
+  },
+  {
+    "message_id": "m2",
+    "content": "Remember to be constructive and kind.",
+    "metadata": { "timestamp": 1696152300000, "author": "system" }
+  },
+  {
+    "message_id": "m3",
+    "content": "Dark mode would be awesome 🌙",
+    "metadata": { "timestamp": 1696154100000, "author": "user123" }
+  },
+  {
+    "message_id": "m4",
+    "content": "Loving the new workflow updates!",
+    "metadata": { "timestamp": 1696149000000, "author": null }
+  },
+  {
+    "message_id": "m5",
+    "content": "Could we have a search function?",
+    "metadata": { "timestamp": 1696155000000, "author": "dev_team" }
+  },
+  {
+    "message_id": "m6",
+    "content": "Anonymous feedback is great!",
+    "metadata": { "timestamp": 1696153200000, "author": null }
+  },
+  {
+    "message_id": "m7",
+    "content": "The UI could be a bit cleaner.",
+    "metadata": { "timestamp": 1696150500000, "author": "designer1" }
+  },
+  {
+    "message_id": "m8",
+    "content": "Would love emoji reactions!",
+    "metadata": { "timestamp": 1696153800000, "author": null }
+  },
+  {
+    "message_id": "m9",
+    "content": "Great job on the recent release!",
+    "metadata": { "timestamp": 1696148400000, "author": "teamlead" }
+  },
+  {
+    "message_id": "m10",
+    "content": "Could we have dark/light mode toggle?",
+    "metadata": { "timestamp": 1696152600000, "author": null }
+  },
+  {
+    "message_id": "m11",
+    "content": "Notifications are working perfectly.",
+    "metadata": { "timestamp": 1696154700000, "author": "QA" }
+  },
+  {
+    "message_id": "m12",
+    "content": "Any chance for exporting feedback?",
+    "metadata": { "timestamp": 1696155900000, "author": null }
+  }
+]
